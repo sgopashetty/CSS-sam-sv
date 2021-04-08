@@ -1,0 +1,18 @@
+favicon - to get a icon in the head of our site
+
+box attributes
+margin -  padding between 2 boxes
+border - every box has a default border of 3px
+padding-if there is a content in the box now if we require
+some space between text and border we use padding
+
+
+positionning
+static -default rules
+relative-the box moves relative to its defalut value
+absolute-
+if we say right:30px the child box is shifted to the right side of the
+the parent box and 30px space is there between right of the parent box and the
+child box
+fixed- if a box is positoned as fixed ..even if we scroll the
+box dosen't move
